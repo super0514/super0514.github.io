@@ -6,7 +6,7 @@
   <link href="https://super0514.github.io/atom.xml" rel="self"/>
   
   <link href="https://super0514.github.io/"/>
-  <updated>2022-02-06T11:22:46.025Z</updated>
+  <updated>2022-02-06T15:59:18.671Z</updated>
   <id>https://super0514.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用hexo和github搭建个人博客网站详细流程</title>
+    <link href="https://super0514.github.io/2022/02/06/shi-yong-hexo-he-github-da-jian-ge-ren-bo-ke-wang-zhan-xiang-xi-liu-cheng/"/>
+    <id>https://super0514.github.io/2022/02/06/shi-yong-hexo-he-github-da-jian-ge-ren-bo-ke-wang-zhan-xiang-xi-liu-cheng/</id>
+    <published>2022-02-06T15:51:24.867Z</published>
+    <updated>2022-02-06T15:59:18.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;机缘巧合了解到了个人博客这个东西，之前试过一次，但是因为某些原因，让我放弃了，感觉太难了，但是这次下定决心，花了很长的时间终于是搞定了，虽然找到了很详细的教程，但是也遇到了很多的问题，主要还是要细心，同时出现了问题其实都可以搜索到解决方法，下边将自</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://super0514.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://super0514.github.io/tags/hexo/"/>
+    
+    <category term="个人博客" scheme="https://super0514.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>阿里云服务器免费获取体验--【开发者成长计划】</title>
