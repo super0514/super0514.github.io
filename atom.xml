@@ -6,7 +6,7 @@
   <link href="https://super0514.github.io/atom.xml" rel="self"/>
   
   <link href="https://super0514.github.io/"/>
-  <updated>2022-02-06T11:12:46.485Z</updated>
+  <updated>2022-02-06T11:22:46.025Z</updated>
   <id>https://super0514.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://super0514.github.io/2022/02/06/a-li-yun-fu-wu-qi-mian-fei-huo-qu-ti-yan-kai-fa-zhe-cheng-chang-ji-hua/"/>
     <id>https://super0514.github.io/2022/02/06/a-li-yun-fu-wu-qi-mian-fei-huo-qu-ti-yan-kai-fa-zhe-cheng-chang-ji-hua/</id>
     <published>2022-02-06T10:47:07.438Z</published>
-    <updated>2022-02-06T11:12:46.485Z</updated>
+    <updated>2022-02-06T11:22:46.025Z</updated>
     
     
       
@@ -36,6 +36,12 @@
     
     <category term="服务器" scheme="https://super0514.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
+    
+    <category term="阿里云服务器" scheme="https://super0514.github.io/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="免费" scheme="https://super0514.github.io/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="小白教程" scheme="https://super0514.github.io/tags/%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
