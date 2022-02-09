@@ -6,7 +6,7 @@
   <link href="https://super0514.github.io/atom.xml" rel="self"/>
   
   <link href="https://super0514.github.io/"/>
-  <updated>2022-02-06T15:59:18.671Z</updated>
+  <updated>2022-02-09T07:21:01.784Z</updated>
   <id>https://super0514.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【剑指offer】第一天：栈与队列</title>
+    <link href="https://super0514.github.io/2022/02/09/jian-zhi-offer-di-yi-tian-zhan-yu-dui-lie/"/>
+    <id>https://super0514.github.io/2022/02/09/jian-zhi-offer-di-yi-tian-zhan-yu-dui-lie/</id>
+    <published>2022-02-09T07:12:23.403Z</published>
+    <updated>2022-02-09T07:21:01.784Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;用两个栈实现队列&quot;&gt;&lt;a href=&quot;#用两个栈实现队列&quot; class=&quot;headerlink&quot; title=&quot;用两个栈实现队列&quot;&gt;&lt;/a&gt;用两个栈实现队列&lt;/h1&gt;&lt;p&gt;用两个栈实现一个队列。队列的声明如下，请实现它的两个函数 appendTail 和</summary>
+        
+      
+    
+    
+    
+    <category term="【LeetCode】" scheme="https://super0514.github.io/categories/%E3%80%90LeetCode%E3%80%91/"/>
+    
+    
+    <category term="数据结构" scheme="https://super0514.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
   
   <entry>
     <title>使用hexo和github搭建个人博客网站详细流程</title>
