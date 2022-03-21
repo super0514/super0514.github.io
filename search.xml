@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>滴滴测开二面总结</title>
+      <link href="/2022/03/21/di-di-ce-kai-er-mian-zong-jie/"/>
+      <url>/2022/03/21/di-di-ce-kai-er-mian-zong-jie/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-自我介绍"><a href="#1-自我介绍" class="headerlink" title="1.自我介绍"></a>1.自我介绍</h3><p>加上了一个在校经历，再介绍项目经历</p><h3 id="2-项目介绍"><a href="#2-项目介绍" class="headerlink" title="2.项目介绍"></a>2.项目介绍</h3><p>深入的询问了项目，项目周期，项目设计，数据库设计，功能实现等</p><h3 id="3-项目中遇到的难点"><a href="#3-项目中遇到的难点" class="headerlink" title="3.项目中遇到的难点"></a>3.项目中遇到的难点</h3><p>数据格式等</p><h3 id="4-作为小组长最重要的两点"><a href="#4-作为小组长最重要的两点" class="headerlink" title="4.作为小组长最重要的两点"></a>4.作为小组长最重要的两点</h3><p>团队内部沟通，向导师及时反馈</p><h3 id="5-数据库怎么设计"><a href="#5-数据库怎么设计" class="headerlink" title="5.数据库怎么设计"></a>5.数据库怎么设计</h3><p>根据具体业务和需求，没有太多考虑性能</p><h3 id="6-判断链表是否有环，重新写一面的反转链表"><a href="#6-判断链表是否有环，重新写一面的反转链表" class="headerlink" title="6.判断链表是否有环，重新写一面的反转链表"></a>6.判断链表是否有环，重新写一面的反转链表</h3><p>很基础，没啥问题</p><h3 id="7-测试登陆注册用例"><a href="#7-测试登陆注册用例" class="headerlink" title="7.测试登陆注册用例"></a>7.测试登陆注册用例</h3><p>复述了一面面试官姐姐教我的测试方法</p><h3 id="8-测试滴滴出行打车的测试用例"><a href="#8-测试滴滴出行打车的测试用例" class="headerlink" title="8.测试滴滴出行打车的测试用例"></a>8.测试滴滴出行打车的测试用例</h3><p>说的不是很好，没有达到面试官姐姐的要求</p><h3 id="9-测试自己项目的注册模块的测试用例"><a href="#9-测试自己项目的注册模块的测试用例" class="headerlink" title="9.测试自己项目的注册模块的测试用例"></a>9.测试自己项目的注册模块的测试用例</h3><p>说了邮箱测试，面试官小姐姐说了确认密码等测试用例，这块基础还得多了解</p><h3 id="10-有使用过git吗？如何解决git推送代码冲突？"><a href="#10-有使用过git吗？如何解决git推送代码冲突？" class="headerlink" title="10.有使用过git吗？如何解决git推送代码冲突？"></a>10.有使用过git吗？如何解决git推送代码冲突？</h3><p>这里只说了下git基本命令，解决git冲突的答案好像没能回答很好，面试官姐姐也没多说</p><h3 id="11-为什么选择测开？"><a href="#11-为什么选择测开？" class="headerlink" title="11.为什么选择测开？"></a>11.为什么选择测开？</h3><p>这里就过了</p><h3 id="反问"><a href="#反问" class="headerlink" title="反问"></a>反问</h3><p>部门主要做什么？</p><p>说最近主要是要改一个自动化测试框架，用python+selenium写，更新框架，以前的太老了，部门是网约车部门（核心大部门）</p><p>如何学习自动化测试？</p><p>面试官姐姐说最主要要去学习测试用例，就是先学好测试基础，性能测试，因为自己是做开发的，python和selenium这块问题不会很大。还说到了软实力，不过是在技术好的基础上了</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>两次面试都是小姐姐，都很温柔。二面项目问的多，虽然项目不怎么样，面试官小姐姐也没有刁难我，不过上次一面写错了，是北京滴滴。也感谢滴滴给予的面试机会，面试体验也特别好！</p><p>再次来许愿通过啦！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 面经 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面经 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>杭州滴滴测开一面总结</title>
       <link href="/2022/03/17/hang-zhou-di-di-ce-kai-yi-mian-zong-jie/"/>
       <url>/2022/03/17/hang-zhou-di-di-ce-kai-yi-mian-zong-jie/</url>
